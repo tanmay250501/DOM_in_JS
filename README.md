@@ -1,6 +1,7 @@
 # DOM_in_JS
 ### Understanding the Document Object Model (DOM) in JavaScript
 
+
 The Document Object Model, commonly known as the DOM, is a programming interface for web documents. It represents the structure of a document as a tree of objects, allowing developers to manipulate the content, structure, and style of a webpage dynamically. JavaScript, being the scripting language of the web, interacts with the DOM to make webpages interactive and responsive to user actions. In this article, we'll explore the DOM's four fundamental pillars: Selection of an Element, Changing HTML, Changing CSS, and Event Listeners.
 
 #### 1. Selection of an Element
