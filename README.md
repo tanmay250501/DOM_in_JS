@@ -5,6 +5,7 @@ The Document Object Model, commonly known as the DOM, is a programming interface
 
 #### 1. Selection of an Element
 
+
 Selecting elements is the first step to manipulate the DOM. JavaScript provides several methods to select elements from the DOM:
 
 - **`getElementById`**: Selects an element by its ID.
