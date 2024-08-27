@@ -95,6 +95,7 @@ Event listeners allow you to execute code in response to user interactions like 
   button.removeEventListener('click', showAlert);
   ```
 
+
 - **Common events**:
   - `click`: Fires when an element is clicked.
   - `mouseover`: Fires when the mouse pointer is over an element.
